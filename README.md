@@ -1,2 +1,4 @@
 # Trump-vs-Baldwin
 Binary Image Classification of Donald J Trump vs Alec Baldwin using Transfer Learning
+
+Initialize the model using VGG-16.
